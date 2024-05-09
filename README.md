@@ -1,6 +1,6 @@
 # portfolio_website
 <br>
-<h2>My own portfolio website.<h2>
+My own portfolio website.
 <br>
 
 <h2>Tech Stack</h2>
