@@ -17,4 +17,4 @@ My own portfolio website.
 
 <br>
 <h2>Deployed Website</h2>
-<a href="https://lucent-fudge-61cc21.netlify.app/">Click here to see website</a>
+<a href="https://lucent-fudge-61cc21.netlify.app/">Click here to see the website</a>
